@@ -1,12 +1,12 @@
 ---
-title: "Moving-Horizon Predictive Input Design for Closed-Loop Identification"
+title: "Moving-horizon predictive input design for closed-loop identification"
 collection: publications
 permalink: /publication/2015-movinghorizon
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Designing optimal excitation signals for closed-loop system identification.'
 date: 2015-06-08
-venue: 'IFAC-PapersOnLine'
+venue: 'ADCHEM Whistler, IFAC-PapersOnLine'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Yousefi, M.,<b><i> Rippon, L. D.</i></b>, Forbes, M. G., Gopaluni, R. B., Loewen, P. D., Dumont, G. A., & Backstrom, J. (2015). &quot;Moving-Horizon predictive input design for closed-loop identification.&quot; <i>IFAC-PapersOnLine</i>.  48(8), 135-140.'
+citation: 'Yousefi, M.,<b><i> Rippon, L. D.</i></b>, Forbes, M. G., Gopaluni, R. B., Loewen, P. D., Dumont, G. A., & Backstrom, J. (2015). &quot;Moving-horizon predictive input design for closed-loop identification.&quot; <i>IFAC-PapersOnLine</i>.  48(8), 135-140.'
 ---
 
 ## Abstract
@@ -14,4 +14,4 @@ This paper presents a new approach to input design for closed-loop identificatio
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Yousefi, M.,<b><i> Rippon, L. D.</i></b>, Forbes, M. G., Gopaluni, R. B., Loewen, P. D., Dumont, G. A., & Backstrom, J. (2015). "Moving-Horizon predictive input design for closed-loop identification." <i>IFAC-PapersOnLine</i>.  48(8), 135-140.
+Recommended citation: Yousefi, M.,<b><i> Rippon, L. D.</i></b>, Forbes, M. G., Gopaluni, R. B., Loewen, P. D., Dumont, G. A., & Backstrom, J. (2015). "Moving-horizon predictive input design for closed-loop identification." <i>IFAC-PapersOnLine</i>.  48(8), 135-140.
