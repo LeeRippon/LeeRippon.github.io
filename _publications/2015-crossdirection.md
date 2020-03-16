@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2015-crossdirection
 excerpt: 'Development of a performance index that monitors a paper machine control system.'
 date: 2015-07-01
-venue: 'American Control Conference (ACC)'
+venue: 'IEEE American Control Conference (ACC) Chicago'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Lu, Q., <b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backstrom, J., & Dumont, G. A. (2015). &quot;Cross-directional controller performance monitoring for paper machines.&quot; <i>American Control Conference (ACC)</i>. (pp. 4970-4975). IEEE.'
 ---
