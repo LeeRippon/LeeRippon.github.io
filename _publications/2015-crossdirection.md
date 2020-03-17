@@ -15,4 +15,4 @@ Since the minimum variance controller (MVC) provides the smallest achievable out
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Lu, Q., <b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backstrom, J., & Dumont, G. A. (2015). Cross-directional controller performance monitoring for paper machines. <i>American Control Conference (ACC)</i>. (pp. 4970-4975). IEEE.
+Recommended citation: Lu, Q., <b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backstrom, J., & Dumont, G. A. (2015). "Cross-directional controller performance monitoring for paper machines." <i>American Control Conference (ACC)</i>. (pp. 4970-4975). IEEE.
