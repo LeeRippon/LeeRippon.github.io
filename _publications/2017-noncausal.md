@@ -16,4 +16,4 @@ We propose to use noncausal transfer functions to model the spatial behavior of 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Lu, Q.,<b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backström, J., & Dumont, G. A. (2017). &quot;Noncausal modeling and closed-loop optimal input design for cross-directional processes of paper machines.&quot; <i>American Control Conference (ACC)</i>. (pp. 2837-2842). IEEE.
+Recommended citation: Lu, Q.,<b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backström, J., & Dumont, G. A. (2017). "Noncausal modeling and closed-loop optimal input design for cross-directional processes of paper machines." <i>American Control Conference (ACC)</i>. (pp. 2837-2842). IEEE.
