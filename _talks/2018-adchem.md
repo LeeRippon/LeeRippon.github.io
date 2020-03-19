@@ -1,5 +1,5 @@
 ---
-title: "Advanced Tools for Data Analytics"
+title: "ADCHEM 2018 Shenyang - Advanced Tools for Data Analytics"
 collection: talks
 type: "Workshop"
 permalink: /talks/2018-adchem
