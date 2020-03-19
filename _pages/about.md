@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Lee and this is my personal website. I am A PhD student in Vancouver, BC and I am studying in the Department of Chemical and Biological Engineering (ChBE) at the University of British Columbia (UBC) in the [Data Analytics and Intelligent Systems (DAIS) laboratory](https://dais.chbe.ubc.ca/). 
+Hi, I'm Lee and this is my personal website. I am a PhD student in Vancouver, BC and I am studying in the Department of Chemical and Biological Engineering (ChBE) at the University of British Columbia (UBC) in the [Data Analytics and Intelligent Systems (DAIS) laboratory](https://dais.chbe.ubc.ca/). 
 
 
 Research
