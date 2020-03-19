@@ -1,5 +1,5 @@
 ---
-title: "Advanced Tools for Process Data Analytics"
+title: "AIChE Spring Meeting - Advanced Tools for Process Data Analytics"
 collection: talks
 type: "Short course"
 permalink: /talks/2019-aiche
