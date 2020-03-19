@@ -1,5 +1,5 @@
 ---
-title: "Polynomial regression and the kernel trick"
+title: "bcdata - Polynomial regression and the kernel trick"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-bcdata
