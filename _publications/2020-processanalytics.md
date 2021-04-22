@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-processanalytics
 excerpt: 'An inferential sensor is developed to warn operators of a high risk of impending arc loss so that they can take corrective actions and avoid the process fault.'
 date: 2020-03-06
-venue: 'Conference of Metallurgists'
-paperurl: 'https://com.metsoc.org/'
+venue: '59th Conference of Metallurgists'
+paperurl: 'https://dais.chbe.ubc.ca/assets/preprints/2020C5_Rippon_COM.pdf'
 citation: '<b><i>Rippon, L. D.</i></b>, Yousef, I., Hosseini, B., Beaulieu, J. F., Prevost, C., Shah, S. L., & Gopaluni, R. B. (2020). &quot;Process analytics and machine learning to predict arc losss in an electric arc furnace.&quot; <i>59th Conference of Metallurgists 2020</i>.'
 ---
 
