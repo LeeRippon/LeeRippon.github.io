@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Lee and this is my personal website. I am a PhD student in Vancouver, BC and I am studying in the Department of Chemical and Biological Engineering (ChBE) at the University of British Columbia (UBC) in the [Data Analytics and Intelligent Systems (DAIS) laboratory](https://dais.chbe.ubc.ca/). 
+Hi, I'm Lee and this is my personal website. I am a PhD candidate in Vancouver, BC and I am studying in the Department of Chemical and Biological Engineering (ChBE) at the University of British Columbia (UBC) in the [Data Analytics and Intelligent Systems (DAIS) laboratory](https://dais.chbe.ubc.ca/). 
 
 
 Research
 ========
 
-My current research focus is centered on investigating machine learning (ML) algorithms for advanced process control (APC) and fault detection and diagnosis (FDD) in process systems applications. The industrial applciations of interest during my PhD include a kraft pulping process and a large-scale metallurgical process (along with simulated settings such as the Tennessee Eastman (TE) process). During my MASc I was focused on profile estimation using compressive sensing and adaptive control for sheet and film processes (e.g., paper making). A notable characteristic of my research portfolio is that it involves significant collaboration with industry leaders and industrial operations. These collaborations greatly assist with positioning my research in a context that enables production of research with a real-world impact.
+My current research focus is centered on investigating machine learning (ML) algorithms for advanced process control (APC) and fault detection and diagnosis (FDD) in process systems applications. The industrial applications of interest during my PhD include a kraft pulping process and a large-scale metallurgical process (along with simulated settings such as the Tennessee Eastman (TE) process). During my MASc I was focused on profile estimation using compressive sensing and adaptive control for sheet and film processes (e.g., paper making). A notable characteristic of my research portfolio is that it involves significant collaboration with industry leaders and industrial operations. These collaborations greatly assist with positioning my research in a context that enables production of research with a real-world impact.
 
 
 Advising
@@ -27,10 +27,7 @@ My primary research supervisor, [Prof. Bhushan Gopaluni](https://www.chbe.ubc.ca
 ===
 
 
-I need to finish a paper for a deadline but I hope to update this space with some enriching material soon! 
-
-
-Please visit again soon for content such as my CV, a list of publications, research updates, blog posts, my teaching portfolio and my academic portfolio.
+This website is still under construction but please visit again soon as I hope to add enriching content such as my CV, a list of publications, research updates, blog posts, my teaching portfolio and my academic portfolio.
 
 
 
