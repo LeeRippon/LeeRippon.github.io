@@ -6,7 +6,7 @@ excerpt: 'Patent granted: two-stage closed-loop identification strategy that lev
 date: 2020-09-01
 venue: 'Patent No.: US 10,761,522 B2'
 paperurl: 'https://patentimages.storage.googleapis.com/f2/80/e4/202e0d00ddd3f5/US10761522.pdf'
-citation: 'Lu, Q.,<b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backström, J., & Dumont, G. A. (2020). &quot;Closed-loop model parameter identification techniques for industrial model-based process controllers.&quot; <i>U.S. Patent</i>. No.: US 10,761,522 B2.'
+citation: 'Lu, Q., <b><i>Rippon, L. D.</i></b>, Gopaluni, R. B., Forbes, M. G., Loewen, P. D., Backström, J., & Dumont, G. A. (2020). &quot;Closed-loop model parameter identification techniques for industrial model-based process controllers.&quot; <i>U.S. Patent</i>. No.: US 10,761,522 B2.'
 ---
 
 
