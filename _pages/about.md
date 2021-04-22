@@ -27,7 +27,7 @@ My primary research supervisor, [Prof. Bhushan Gopaluni](https://www.chbe.ubc.ca
 ===
 
 
-This website is still under construction but please visit again soon as I hope to add enriching content such as my CV, a list of publications, research updates, blog posts, my teaching portfolio and my academic portfolio.
+This website is still under construction but please feel free to browse the tabs for publications and talks. The remaining tabs (e.g., teching, portfolio, etc.), are templates for now but please visit again soon as I hope to add enriching content such as my CV, research updates, blog posts, my teaching portfolio and my academic portfolio. If you have any questions or would like to reach out please feel free to contact me through the links to my social media accounts provided on the left. 
 
 
 
